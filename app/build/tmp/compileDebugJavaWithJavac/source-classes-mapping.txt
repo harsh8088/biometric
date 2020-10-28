@@ -1,0 +1,2 @@
+com/harsh/biometricapp/BuildConfig.java
+ com.harsh.biometricapp.BuildConfig
